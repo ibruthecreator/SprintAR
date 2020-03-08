@@ -1,0 +1,6 @@
+framework module Pods_Sprint {
+  umbrella header "Pods-Sprint-umbrella.h"
+
+  export *
+  module * { export * }
+}
